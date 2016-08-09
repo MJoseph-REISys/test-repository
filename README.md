@@ -1,3 +1,3 @@
 # test-repository
 Repository test
-A but about myself 
+A bit about myself 
